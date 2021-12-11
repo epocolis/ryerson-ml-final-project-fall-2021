@@ -1,3 +1,6 @@
 *.gz
 Cora
 .ipynb_checkpoints
+venv
+dataset
+*.pyc
